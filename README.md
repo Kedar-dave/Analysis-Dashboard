@@ -58,7 +58,7 @@ The dataset includes:
 
 ### Operations & Logistics
 
-![Operations](screenshots/operations.png)
+![Operations](screenshots/operations..png)
 
 ---
 
