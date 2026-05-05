@@ -1,23 +1,4 @@
-# 📊 Retail Supply Chain Analytics Dashboard (Power BI)
-
-## 🚀 Project Overview
-
-Designed as a real-world business intelligence solution, this project analyzes a retail supply chain dataset to uncover insights into **sales performance, profitability, logistics efficiency, and operational risks**.
-
-The dashboard enables stakeholders to move beyond raw data and make **data-driven decisions** by identifying key drivers of revenue, profit, and inefficiencies.
-
----
-
-## 🎯 Objectives
-
-- Analyze **sales and profit trends** across categories and regions
-- Identify **high-performing and loss-making products**
-- Evaluate the **impact of discounts on profitability**
-- Assess **shipping performance and delivery efficiency**
-- Understand **return patterns and operational risks**
-- Provide clear business recommendations based on dashboard findings
-
----
+# 📊 Retail Supply Chain Analytics Dashboard 
 
 ## 🧠 Problem Statement
 
@@ -36,7 +17,6 @@ This project addresses the need for a centralized Power BI dashboard that helps 
 
 ## 📁 Dataset
 
-- **Source:** Kaggle Retail Supply Chain Dataset
 - **Data Type:** Retail sales and supply chain transaction data
 - **Records:** Approximately 180K+ transaction records
 - **Format Used:** Excel / CSV
@@ -409,58 +389,6 @@ This project shows the ability to:
 
 ---
 
-## 🔐 Security & Risk Analysis Perspective
-
-Although this project focuses on retail analytics, it also demonstrates analytical skills relevant to cybersecurity and risk monitoring.
-
-Relevant transferable skills include:
-
-- Pattern recognition across large datasets
-- Anomaly detection, such as abnormal discounts or negative profit patterns
-- Risk analysis through return rates and delivery failures
-- Dashboard-based monitoring
-- Investigation of outliers and unusual behavior
-- Data-driven decision-making
-
-Similar analytical methods can be applied to:
-
-- SIEM dashboards
-- Security operations reporting
-- Threat detection metrics
-- Incident response dashboards
-- Vulnerability and risk tracking
-
----
-
-## ☁️ Cloud & Data Perspective
-
-This project can be extended into a cloud-based analytics solution.
-
-Possible cloud extensions:
-
-- Store raw data in AWS S3
-- Use AWS Glue for ETL processing
-- Use Amazon Athena for querying cleaned data
-- Connect Power BI to cloud data sources
-- Publish dashboards using Power BI Service
-- Automate scheduled refreshes
-
----
-
-## 💼 Business Impact
-
-This dashboard enables stakeholders to:
-
-- Identify products that drive or reduce profit
-- Improve discount strategy
-- Reduce operational inefficiencies
-- Improve delivery performance
-- Monitor sales and profitability trends
-- Support regional business planning
-- Make informed, data-driven decisions
-
----
-
 ## 📂 Project Structure
 
 ```text
@@ -479,21 +407,6 @@ Retail-Supply-Chain-Dashboard/
 │
 └── README.md
 ```
-
----
-
-## 🚀 How to View the Dashboard
-
-1. Download the `.pbix` file from the `dashboard/` folder.
-2. Open it using Power BI Desktop.
-3. Review the report pages:
-   - Executive Overview
-   - Product & Sales Analysis
-   - Operations & Logistics
-4. Use slicers and filters to explore the dashboard interactively.
-
----
-
 ## 📌 Future Improvements
 
 Potential improvements for future versions:
